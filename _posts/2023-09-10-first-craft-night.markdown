@@ -20,4 +20,4 @@ of other primary colors if needed.k
 A couple images of the kit to give us ideas :)
 
 <img src="/images/box.jpg">
-<img src="/images/options.png">
+<img src="/images/options.jpg">
