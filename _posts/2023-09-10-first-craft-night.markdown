@@ -17,7 +17,7 @@ Bring heavy paper or cloth you want to print on, if interested.  The kit comes
 with black and red ink but I also have some smaller amounts
 of other primary colors if needed.k
 
-A couple images of the kit for ideas :)
+A couple images of the kit to give us ideas :)
 
 <img src="/images/box.jpg">
 <img src="/images/options.png">
