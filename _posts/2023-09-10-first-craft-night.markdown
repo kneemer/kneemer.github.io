@@ -2,7 +2,7 @@
 layout: post
 title:  "First craft night!"
 date:   2023-09-10 15:52:14 -0700
-categories: craft night
+categories: create
 ---
 
 The first craft night will be on Wednesday, September 13th from 6-?
